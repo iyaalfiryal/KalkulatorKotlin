@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KalkulatorKotlin</string>
+    <string name="hint_bilangan_1">Bilangan 1</string>
+    <string name="hint_bilangan_2">Bilangan 2</string>
+    <string name="btn_title_plus">+</string>
+    <string name="btn_title_min">-</string>
+    <string name="btn_title_kali">X</string>
+    <string name="btn_title_bagi">:</string>
+</resources>
